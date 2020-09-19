@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 <p align='center'>
   Fullstack .NET Developer from India
 </p>
+
+- 🔭  I’m currently working on a building RPA Bots.
+- 🌱  I’m currently exploring Python, ReactJS, Azure. 
+- 👯  I’have started my youtube channel [Youtube](https://www.youtube.com/channel/UCXjb2EQf9pGQd6LlF1m6d_w/videos?view=0&sort=p&flow=grid&view_as=subscriber)
+- 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
+- 📫  Follow me on [Twitter](https://twitter.com/dshekhawat07)
+
 <p align='center'>
  
   <a href="https://www.linkedin.com/in/dipendra-shekhawat/">
@@ -38,8 +45,6 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dipendrashekhawat&show_icons=true&count_private=true&theme=dark" width="450"></a>
   <a href="#"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="240" height="175"></a>
 </p>
-<br/>
-<br/>
 <h2 align='center'>
   Sharing my knowledge with the help of these social platforms.
 </h2>
