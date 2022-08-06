@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭  I’m currently working on a building RPA Bots.
-- 🌱  I’m currently exploring Python, ReactJS, Azure. 
-- 👯  I’have started my youtube channel [Youtube](https://www.youtube.com/channel/UCXjb2EQf9pGQd6LlF1m6d_w/videos?view=0&sort=p&flow=grid&view_as=subscriber)
+- 🌱  I’m currently exploring Python. 
+- 👯  I’have a youtube channel [Youtube](https://www.youtube.com/dotnetcrunch/videos?view=0&sort=p&flow=grid&view_as=subscriber)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
-- 📫  Follow me on [Twitter](https://twitter.com/dshekhawat07)
+- 📫  Follow me on [Twitter](https://twitter.com/dotnetcrunchh)
 
 <p align='center'>
  
