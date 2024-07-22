@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   Dipendra Shekhawat</a> 👨‍💻
 </h1>
 <p align='center'>
-  Fullstack .NET Developer from India
+  Principal Architect - Automation, India
 </p>
 
-- 🔭  I’m currently working on a building RPA Bots.
-- 🌱  I’m currently exploring Python. 
-- 👯  I’have a youtube channel [Youtube](https://www.youtube.com/dotnetcrunch/videos?view=0&sort=p&flow=grid&view_as=subscriber)
+- 🔭  I’m currently working on building Intelligent Automations.
+- 🌱  Currently exploring Power Platform, Python. 
+- 👯  have a YouTube channel [Youtube](https://www.youtube.com/@rpafeed)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
 - 📫  Follow me on [Twitter](https://twitter.com/dotnetcrunchh)
 
@@ -63,26 +63,26 @@ Here are some ideas to get you started:
   
 </p>
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Podcasts - RPA, Automation & AI
 
 <!-- YOUTUBE:START -->
-- [What is DenoJS? Deno.js in 5 Minutes](https://www.youtube.com/watch?v=lFfa27mvA1I)
-- [TypeScript Tutorial - Introduction, First TypeScript Program](https://www.youtube.com/watch?v=TT-UTxcb9pM)
-- [TypeScript Tutorial - Declaring a variable in TypeScript](https://www.youtube.com/watch?v=Q39YJFjttmg)
+- [RPAFeed's Podcast Show](https://www.youtube.com/@RPAFeed/podcasts)
+- [Mock Interview Series](https://www.youtube.com/playlist?list=PLnlks-r1Q9C5IC9LszGJXg0pe5fdCXsW-)
+- [Automation Anywhere A360 Tutorial](https://www.youtube.com/playlist?list=PLnlks-r1Q9C55qH9gL5_VF6CVGub2mbUB)
 - [9 Skills to become RPA Developer](https://www.youtube.com/watch?v=HSaInk0RH64)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCXjb2EQf9pGQd6LlF1m6d_w)
 <!--
-- 🔭  I’m currently working on a building RPA Bots.
-- 🌱  I’m currently exploring Python, ReactJS, Azure. 
-- 👯  I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCXjb2EQf9pGQd6LlF1m6d_w/videos?view=0&sort=p&flow=grid&view_as=subscriber)
+- 🔭  I’m currently working on building Intelligent Bots.
+- 🌱  I’m currently exploring Python, Power Platform, and AI Agents. 
+- 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCXjb2EQf9pGQd6LlF1m6d_w/videos?view=0&sort=p&flow=grid&view_as=subscriber)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
 - 📫  Follow me on [Twitter](https://twitter.com/dshekhawat07)
 ### Connect with me:
 [<img align="left" alt="Dipendra Shekhaway" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DotNetCrunch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DotNetCrunch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DotNetCrunch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Dipendra Shekhawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DotNetCrunch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-dotnetcrunch]
 [<img align="left" alt="Dipendra Shekhawat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
