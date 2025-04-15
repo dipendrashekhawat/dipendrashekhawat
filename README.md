@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building RPA bots
+- 🔭 I’m currently working on building Agents & Automations
 - 🌱 I’m currently learning Python, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭  I’m currently working on building Intelligent Automations.
-- 🌱  Currently exploring Power Platform, Python. 
-- 👯  have a YouTube channel [Youtube](https://www.youtube.com/@rpafeed)
+- 🌱  Currently exploring AI Agents, Power Platform, and AI Automation. 
+- 👯  have a YouTube channel [Automation Feed](https://www.youtube.com/@automationfeed)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
 - 📫  Follow me on [Twitter](https://twitter.com/dotnetcrunchh)
 
@@ -66,13 +66,13 @@ Here are some ideas to get you started:
 ### 📺 Latest Podcasts - RPA, Automation & AI
 
 <!-- YOUTUBE:START -->
-- [RPAFeed's Podcast Show](https://www.youtube.com/@RPAFeed/podcasts)
+- [Automation Feed's Podcast Show](https://www.youtube.com/@AutomationFeed/podcasts)
 - [Mock Interview Series](https://www.youtube.com/playlist?list=PLnlks-r1Q9C5IC9LszGJXg0pe5fdCXsW-)
 - [Automation Anywhere A360 Tutorial](https://www.youtube.com/playlist?list=PLnlks-r1Q9C55qH9gL5_VF6CVGub2mbUB)
 - [9 Skills to become RPA Developer](https://www.youtube.com/watch?v=HSaInk0RH64)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCXjb2EQf9pGQd6LlF1m6d_w)
+➡️ [more videos...](https://www.youtube.com/@DotNetCrunch)
 <!--
 - 🔭  I’m currently working on building Intelligent Bots.
 - 🌱  I’m currently exploring Python, Power Platform, and AI Agents. 
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
 - 📫  Follow me on [Twitter](https://twitter.com/dshekhawat07)
 ### Connect with me:
-[<img align="left" alt="Dipendra Shekhaway" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Dipendra Shekhawat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DotNetCrunch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DotNetCrunch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Dipendra Shekhawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 [website]: https://dipendrashekhawat.github.io
 [twitter]: https://twitter.com/dotnetcrunch
-[youtube]: https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA
+[youtube]: https://www.youtube.com/@automationfeed
 [instagram]: https://instagram.com/dipendra.shekhawat
 [instagram-theindiandev]: https://instagram.com/dotnetcrunch
 [linkedin]: https://www.linkedin.com/in/dipendra-shekhawat/
