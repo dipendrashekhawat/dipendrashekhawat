@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Dipendra Shekhawat</a> 👨‍💻
 </h1>
 <p align='center'>
-  Principal Architect - Automation, India
+  Principal Architect - Automation & AI
 </p>
 
 - 🔭  I’m currently working on building Intelligent Automations.
@@ -114,6 +114,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/dipendrashekhawat/dipendrashekhawat"></a>
+  <!-- <a href="#"><img src="https://badges.pufler.dev/visits/dipendrashekhawat/dipendrashekhawat"></a> -->
+  <a href="#"><img src="https://img.shields.io/badge/Visits-5.7K-brightgreen"></a>
   <a href="#"><img src="https://badges.pufler.dev/repos/dipendrashekhawat"></a>
 </p>
