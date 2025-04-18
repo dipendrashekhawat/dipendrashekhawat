@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 - [Automation Feed's Podcast Show](https://www.youtube.com/@AutomationFeed/podcasts)
 - [Mock Interview Series](https://www.youtube.com/playlist?list=PLnlks-r1Q9C5IC9LszGJXg0pe5fdCXsW-)
 - [Automation Anywhere A360 Tutorial](https://www.youtube.com/playlist?list=PLnlks-r1Q9C55qH9gL5_VF6CVGub2mbUB)
-- [9 Skills to become RPA Developer](https://www.youtube.com/watch?v=HSaInk0RH64)
+- [Install UiPath Community Edition Free](https://www.youtube.com/watch?v=ymKF6Ow-9pk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@DotNetCrunch)
