@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   Dipendra Shekhawat</a> 👨‍💻
 </h1>
 <p align='center'>
-  Principal Architect - Automation & AI
+  Principal Lead - AI & Automation
 </p>
 
-- 🔭  I’m currently working on building Intelligent Automations.
-- 🌱  Currently exploring AI Agents, Power Platform, and AI Automation. 
+- 🔭  I’m currently working on building AI-driven automation solutions.
+- 🌱  Learning Agentic AI concepts.
 - 👯  have a YouTube channel [Automation Feed](https://www.youtube.com/@automationfeed)
-- 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
-- 📫  Follow me on [Twitter](https://twitter.com/dotnetcrunchh)
+- 📫  I'm creating posts over [Instagram](https://www.instagram.com/automationfeed)
+- 📫  Follow me on [X](https://x.com/automationfeed)
 
 <p align='center'>
  
@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 ➡️ [more videos...](https://www.youtube.com/@DotNetCrunch)
 <!--
-- 🔭  I’m currently working on building Intelligent Bots.
+- 🔭  I’m currently working on building AI-driven automation solutions.
 - 🌱  I’m currently exploring Python, Power Platform, and AI Agents. 
 - 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCXjb2EQf9pGQd6LlF1m6d_w/videos?view=0&sort=p&flow=grid&view_as=subscriber)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/dotnetcrunch)
-- 📫  Follow me on [Twitter](https://twitter.com/dshekhawat07)
+- 📫  Follow me on [X](https://x.com/dshekhawat07)
 ### Connect with me:
 [<img align="left" alt="Dipendra Shekhawat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DotNetCrunch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
