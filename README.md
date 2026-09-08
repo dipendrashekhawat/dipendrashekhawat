@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭  I’m currently working on building AI-driven automation solutions.
 - 🌱  Learning Agentic AI concepts.
+- 📌  Sharing guides here [APA Mastery](https://www.apamastery.com/)
 - 👯  have a YouTube channel [Automation Feed](https://www.youtube.com/@automationfeed)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/automationfeed)
 - 📫  Follow me on [X](https://x.com/automationfeed)
