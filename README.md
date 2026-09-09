@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align='center'>
-  Hi there 👋  I'm   <a href="https://dipendrashekhawat.github.io/">
+  Hi there 👋  I'm   <a href="#">
   Dipendra Shekhawat</a> 👨‍💻
 </h1>
 <p align='center'>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭  I’m currently working on building AI-driven automation solutions.
-- 🌱  Learning Agentic AI concepts.
+- 🌱  RAG, AI Agents, AI Automation.
 - 📌  Sharing guides here [APA Mastery](https://www.apamastery.com/)
 - 👯  have a YouTube channel [Automation Feed](https://www.youtube.com/@automationfeed)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/automationfeed)
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - [Install UiPath Community Edition Free](https://www.youtube.com/watch?v=ymKF6Ow-9pk)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/@DotNetCrunch)
+➡️ [more videos...](https://www.youtube.com/@AutomationFeed)
 <!--
 - 🔭  I’m currently working on building AI-driven automation solutions.
 - 🌱  I’m currently exploring Python, Power Platform, and AI Agents. 
