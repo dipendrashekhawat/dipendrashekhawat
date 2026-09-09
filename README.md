@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dipendrashekhawat&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <!--<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dipendrashekhawat&show_icons=true&count_private=true&theme=dark" width="450"></a>-->
   <a href="#"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="240" height="175"></a>
 </p>
 <h2 align='center'>
@@ -116,6 +116,6 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <!-- <a href="#"><img src="https://badges.pufler.dev/visits/dipendrashekhawat/dipendrashekhawat"></a> -->
-  <a href="#"><img src="https://img.shields.io/badge/Visits-5.7K-brightgreen"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visits-2.7K-brightgreen"></a>
   <a href="#"><img src="https://badges.pufler.dev/repos/dipendrashekhawat"></a>
 </p>
